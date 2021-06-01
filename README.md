@@ -1,2 +1,2 @@
-# neonmaps-search-address
-Address searcher for Neonmaps
+# neonmaps-renderer-client
+Render front-end for Neonmaps

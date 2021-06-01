@@ -12,9 +12,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/norstone-tech/neonmaps-search-address"
+		"url": "https://github.com/norstone-tech/neonmaps-renderer-client"
 	},
 	"bugs": {
-		"url": "https://github.com/norstone-tech/neonmaps-search-address/issues"
+		"url": "https://github.com/norstone-tech/neonmaps-renderer-client/issues"
 	}
 }
